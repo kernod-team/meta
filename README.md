@@ -24,14 +24,7 @@ A Q&A website for university students.
 
 
 
-## Slogan candidates
-
-+ In knowledge we trust.
-+ It's extraordinarily important that we in universities keep fun in learning. (inspired by the [foreword to SICP][sicp])
-
-
-
-## Features (I mean Todo List)
+## Functionalities (or "Todo List")
 
 
 ### Core
@@ -82,8 +75,4 @@ A Q&A website for university students.
   + Android app
   + iOS app
 
-+ and more
-
-
-
- [sicp]: https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-3.html
++ ......
