@@ -16,7 +16,7 @@ A Q&A website for university students.
 
 2. **To establish an ever-growing knowledge base**
 
-   The Stack Exchange Network, one of our models, aims to "build libraries of high-quality questions and answers". Likewise, after years of dedicated operation, we would've hopefully collected tons of great content from the community, which composes a considerable "knowledge base". This is the integral of user contribution with respect to time, and a result of the intelligence of the community. 
+   The Stack Exchange Network, one of our models, aims to "build libraries of high-quality questions and answers". Likewise, after years of dedicated operation, we would've hopefully collected tons of great content from the community, which composes a considerable "knowledge base". The knowledge is an imposing, breathtaking, static structure built by armies pushing heavy blocks into place, whereas the community is an imposing, breathtaking, dynamic structure built by squads fitting fluctuating myriads of simpler organisms into place. (yeah, I love SICP)
    
    To make good use of the knowledge base, users are requested to search through the knowledge base before posting new questions, because these are very likely to be restatements of some well-answered questions posted a long time ago. For those who want to ask for help, this procedure provides easier access to inspiration (because you don't have to write up a new question and wait for responses), while for the lifesavers, this means fewer duplicates and thus a better answering experience.
    
